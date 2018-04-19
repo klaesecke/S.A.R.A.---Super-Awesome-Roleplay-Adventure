@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4ED48C3C-2D7A-49BC-B710-DF8572A6E20A}</ProjectGuid>
+    <ProjectGuid>{2E32089E-8212-4392-9409-B4A1F42B0049}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>S.A.R.A.__Super_Awesome_Roleplay_Adventure</RootNamespace>
-    <AssemblyName>S.A.R.A.__Super_Awesome_Roleplay_Adventure</AssemblyName>
+    <RootNamespace>SARA_GUITEST</RootNamespace>
+    <AssemblyName>S.A.R.A.__Super_Awesome_Roleplay_Adventure___GUITEST</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

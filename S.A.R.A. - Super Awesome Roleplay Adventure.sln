@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S.A.R.A. - Super Awesome Roleplay Adventure", "S.A.R.A. - Super Awesome Roleplay Adventure\S.A.R.A. - Super Awesome Roleplay Adventure.csproj", "{4ED48C3C-2D7A-49BC-B710-DF8572A6E20A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S.A.R.A. - Super Awesome Roleplay Adventure - GUI", "S.A.R.A. - Super Awesome Roleplay Adventure - GUI\S.A.R.A. - Super Awesome Roleplay Adventure - GUI.csproj", "{19D898E3-BAE5-46EB-A33B-70A9099F29DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S.A.R.A. - Super Awesome Roleplay Adventure - ENGINE", "S.A.R.A. - Super Awesome Roleplay Adventure - ENGINE\S.A.R.A. - Super Awesome Roleplay Adventure - ENGINE.csproj", "{38B58721-07AB-43A9-A257-C3E9EC01CAAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S.A.R.A. - Super Awesome Roleplay Adventure - ENGINETEST", "S.A.R.A. - Super Awesome Roleplay Adventure - ENGINETEST\S.A.R.A. - Super Awesome Roleplay Adventure - ENGINETEST.csproj", "{5950F9CD-D555-4257-8900-09D0E89BBACB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S.A.R.A. - Super Awesome Roleplay Adventure - GUITEST", "S.A.R.A. - Super Awesome Roleplay Adventure - GUITEST\S.A.R.A. - Super Awesome Roleplay Adventure - GUITEST.csproj", "{2E32089E-8212-4392-9409-B4A1F42B0049}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +17,22 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4ED48C3C-2D7A-49BC-B710-DF8572A6E20A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4ED48C3C-2D7A-49BC-B710-DF8572A6E20A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4ED48C3C-2D7A-49BC-B710-DF8572A6E20A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4ED48C3C-2D7A-49BC-B710-DF8572A6E20A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19D898E3-BAE5-46EB-A33B-70A9099F29DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D898E3-BAE5-46EB-A33B-70A9099F29DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D898E3-BAE5-46EB-A33B-70A9099F29DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D898E3-BAE5-46EB-A33B-70A9099F29DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38B58721-07AB-43A9-A257-C3E9EC01CAAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38B58721-07AB-43A9-A257-C3E9EC01CAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38B58721-07AB-43A9-A257-C3E9EC01CAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38B58721-07AB-43A9-A257-C3E9EC01CAAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5950F9CD-D555-4257-8900-09D0E89BBACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5950F9CD-D555-4257-8900-09D0E89BBACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5950F9CD-D555-4257-8900-09D0E89BBACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5950F9CD-D555-4257-8900-09D0E89BBACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E32089E-8212-4392-9409-B4A1F42B0049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E32089E-8212-4392-9409-B4A1F42B0049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E32089E-8212-4392-9409-B4A1F42B0049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E32089E-8212-4392-9409-B4A1F42B0049}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
